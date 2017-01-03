@@ -1,0 +1,45 @@
+http://185.100.16.137/tc/
+
+TEST DATA
+
+Default password: 12345
+
+Administrators:
+
+99999900001
+99999900002
+99999900003
+
+Stores:
+
+0008
+0014
+0100
+
+Managers (Manager, Assistant manager, Cashier):
+
+99999900011
+99999900012
+99999900013
+99999900014
+99999900015
+99999900016
+
+Employees (Sales, Stock):
+
+99999900111
+99999900112
+99999900113
+99999900114
+99999900115
+99999900116
+
+
+IMPLEMENTED
+1)	Check (ID, Password, IP Address)
+2)	Store – PUNCH IN/OUT
+3)	Store – Current Status
+4)	Store – Activity Report
+
+NOTE
+To authorize your IP Address click a link at the bottom of the page.
